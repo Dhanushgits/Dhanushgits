@@ -78,4 +78,10 @@ Collaborative code editor built with React, Node.js, Socket.io, Redis, CodeMirro
 [GitHub Repo](https://github.com/yourusername/realtime-code-editor)
 
 **WebMingle**  
-Interactive dashb
+Interactive dashboard
+
+**web scrapper**
+web scraping project using Scrapy, focusing on data extraction with XPath, handlingscraping challenges, and storing data in databases. Strengthened skills in automation and Python-basedscraping workflows
+
+**Containerized Web Server**
+Deployed a static site using Nginx in Docker with a custom Dockerfile,showcasing containerization and automation skills
