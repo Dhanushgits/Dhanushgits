@@ -19,7 +19,7 @@ I'm a Full Stack Developer and DevOps Engineer with a strong foundation in build
 - Docker, Kubernetes, GitHub Actions, AWS, Azure, NGINX, Linux, CI/CD pipelines
 
 **Tools**  
-- Git, Vite, VSCode, Postman, Figma
+- Git, VSCode, Figma
 
 ---
 
@@ -64,8 +64,6 @@ I'm a Full Stack Developer and DevOps Engineer with a strong foundation in build
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
